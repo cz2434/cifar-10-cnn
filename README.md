@@ -1,4 +1,4 @@
-# GR5242 Final Project Report <br>
+# GR5242 Final Project <br>
 
 ## Team members:
 - Jia, Kewei (kj2408@columbia.edu)
@@ -16,3 +16,16 @@ The **GOALS** of this project are to:
 **Tools:**
 - GPU-enabled Tensorflow
 - Keras API
+
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+
+```
+proj/
+├── lib/
+├── data/
+├── doc/
+├── figs/
+└── output/
+```
+
+Please see each subfolder for a README file.
